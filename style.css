@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 60px;
+}
+
+nav *{
+    float: left;
+    height: 50px;
+    list-style: none;
+    padding: 3px;
+    color: black;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+nav ul {
+    width: 30%;
+    margin-left: 600px;
+}
+
+nav form {
+    margin-left: 40px;
+}
+
+nav img {
+    margin-left: 40px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h4 {
+    color: orange;
+}
+
+.sec {
+    padding: 30px 0;
+    margin: 100px 400px 100px 100px;
+    width: 40%;
+}
+
+.sec h1 {
+    margin-bottom: 20px;
+}
+
+.sec input {
+    width: 70%;
+}
+
+
+/* otherSec */
+/* otherSec */
+.otherSec {
+    margin: 100px 100px 100px 700px;
+    width: 40%;
+}
+
+.otherSec * , .cta * , .review * {
+    padding: 20px 0;
+}
+
+.otherSec h1 + p + p {
+    padding-top: 5px;
+}
+
+.otherSec a {
+    color: black;
+    text-decoration: none;
+}
+/* otherSec */
+/* otherSec */
+
+
+.menu, .cta, .review {
+    text-align: center;
+    padding: 50px;
+}
+
+.menu li {
+    list-style: none;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
+
+.menu div {
+    clear: both;
+}
+
+.menu div img  {
+    padding: 5px;
+}
+
+.cta span {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.cta {
+    width: 60%;
+    margin: 0 300px;
+}
+
+video {
+    background: blue;
+}
+
+.review p {
+    width: 410px;
+    margin: 0 500px;
+}
+
+
+
+
+
+
